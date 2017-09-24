@@ -1,0 +1,7 @@
+Copyright: 2017 Tuomas P. Mutanen, Johanna Metsomaa, Sara Liljander, and Risto J. Ilmoniemi
+
+1. The provided Matlab demo package and/or the results can be used for a non-commercial or academic purpose only.
+2. When the demo package is used to obtain new scientific results, the original article has to be cited.
+3. When the user distributes a method, which depends on the demo package, the original article has to be cited with the mentioning of this Demo Package.
+4. The Authors provide no support for using the demo package.  
+5. The Demo package comes with no warranty: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. (The CAPITALIZED text is from the MIT License.)
