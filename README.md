@@ -35,7 +35,7 @@ The sample dataset has been measured with a 254-channel EEG system. Due to the l
 
 || Contacts / Reporting bugs ||
 
-	This demo package was built merely for demonstration purposes, and thus, should not be treated as a finished product. In a case you find any bugs or compatibility issues with certain operation systems or MATLAB/EEGLAB versions, you should inform them directly to Tuomas Mutanen or Johanna Metsomaa, by email: tuomas.mutanen@gmail.com or johanna.metsomaa@gmail.com, respectively. 
+	This demo package was built merely for demonstration purposes, and thus, should not be treated as a finished product. In a case you find any bugs or compatibility issues with certain operating systems or MATLAB/EEGLAB versions, you should inform them directly to Tuomas Mutanen or Johanna Metsomaa, by email: tuomas.mutanen@gmail.com or johanna.metsomaa@gmail.com, respectively. 
 
 || Acknowledgment ||
 
